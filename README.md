@@ -1,2 +1,2 @@
 # SpinningUpPractice
-自己关于DRL的学习
+自己关于DRL的学习笔记以及代码练习
